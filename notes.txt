@@ -1,3 +1,5 @@
 some interesting notes
+Up here is a new line.
 Some more interesting notes that are important!
 This too is interesting!
+another new line.
